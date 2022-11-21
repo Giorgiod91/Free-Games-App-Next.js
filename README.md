@@ -1,6 +1,17 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Free-Game-App to download free games
+in order for your to get this run locally u need to setup local environment variables 
+with your own API key
+Tech used :
+-react(next.js)
+-TailwindCss
+-FramerMotion
+-TypeScript
+-Icons
+-Vercel
+-rapid api free to game
 
-## Getting Started
+
+
 
 First, run the development server:
 
