@@ -10,7 +10,7 @@ Tech used :
 -Vercel
 -rapid api free to game
 
-
+Live-Build : https://free-games-download-d989dxunr-giorgiodettmar-gmxde.vercel.app/
 
 
 First, run the development server:
